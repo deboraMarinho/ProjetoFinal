@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="btnSeriado">Seriado</string>
+    <string name="btnGenero">Genero</string>
+    <string name="fotoSeriado">Foto Seriado</string>
+    <string name="nomeSeriado">Nome Seriado</string>
+    <string name="imgSeriado" />
+    <string name="anoLancamento">Ano Lançamento</string>
+    <string name="episodio">Episódios</string>
+    <string name="genero">Genero</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="nomeGenero">Nome Genero</string>
+    <string name="imgGenero" />
+    <string name="faixaEtaria">Faixa Etaria</string>
+    <string name="imgFaixaEtaria" />
+</resources>
